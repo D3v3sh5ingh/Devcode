@@ -1,6 +1,6 @@
 # Devcode
 My first Turbo C++ Project :
-The code  uses some of the feautures of c++ Graphics.
+The code  uses some of the feautures of c++ Graphics and its application.
 
 Works Only in Turbo C++(contain Graphics)
 
