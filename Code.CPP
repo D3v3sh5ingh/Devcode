@@ -1536,7 +1536,9 @@ goto f3; }
 
 menu1();
 break; 
-case '}':       nosound(); menu();
+case '}':       
+ nosound();	//to turn off the sound
+ menu();
 }
 
 getch();
