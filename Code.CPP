@@ -387,7 +387,7 @@ exit(0);
 void refraction()
 {
 define_refraction();
-delay(1000);
+delay(1000);	//ad
 
 convex_lens();
 delay(1000);
